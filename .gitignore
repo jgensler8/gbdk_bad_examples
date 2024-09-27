@@ -1,0 +1,5 @@
+bazel-bin
+bazel-gbdk_bad_examples
+bazel-out
+bazel-testlogs
+.vscode/

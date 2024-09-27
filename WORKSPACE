@@ -1,0 +1,1 @@
+workspace(name = "gbdk_bad_examples")
