@@ -4,6 +4,8 @@ You want to make a game for the Game Boy?
 Want to see and feel its limitations before you start?
 You're in the right place!
 
+I also wrote a longer form blog post here: https://jeffzzq.medium.com/some-limitations-of-the-game-boy-67d94a8afb8a
+
 ## Examples
 
 ### 0: nothing
